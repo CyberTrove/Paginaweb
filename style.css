@@ -152,7 +152,7 @@ nav {
     display: flex; /* Hace que el menú esté en línea */
      align-content: center;
      position: absolute;
-     bottom:530px;
+     bottom: 800px;
      right: 49%;
     font-family: 'Courier New', Courier, monospace;
     width:700px;
